@@ -1,0 +1,4 @@
+initial content
+new line
+soft reset content
+hard reset content
