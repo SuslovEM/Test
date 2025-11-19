@@ -1,1 +1,3 @@
-Создание конфликтной ветки А
+resolved content from both branches
+- content from branch A
+- content from branch B
