@@ -1,3 +1,1 @@
-resolved content from both branches
-- content from branch A
-- content from branch B
+Версия Б конфликтного файла
